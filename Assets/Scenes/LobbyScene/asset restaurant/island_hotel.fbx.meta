@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 75a14edad0f7e66419aaa8f086e040c2
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20171029_191052_baseColor
+    second: {fileID: 2800000, guid: 6cfe97506158b1a4a910aeae1ab1f682, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20190817-153812-bst_baseColor
+    second: {fileID: 2800000, guid: 8b548eface99fec43ac3395cb6e4cfa9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20200524-104217-bst_baseColor
+    second: {fileID: 2800000, guid: 0f8f5d299542ffb4f9cfe437afb7542b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: applique_001___ampoule_baseColor
+    second: {fileID: 2800000, guid: 562a4720924d75a408c0d803e51ea56f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo___bamboo_feuille_baseColor
+    second: {fileID: 2800000, guid: e37514fe5cee957428658cf256767bc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bananier___feuilles_baseColor
+    second: {fileID: 2800000, guid: 5d68ec54fc153ad49bc9ee0b60ef0843, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bar___bar_metal_baseColor
+    second: {fileID: 2800000, guid: 2f1cde5f1e922b446b12b32040272d3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bois_098_Wall_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 48546c0f03d9d4c4c81d5cd15a9fbabf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bois_101_baseColor
+    second: {fileID: 2800000, guid: 8a6f565bdc18ae047952d7c54869a14f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brique_015_baseColor
+    second: {fileID: 2800000, guid: 03940d2b50ab1d64bbd2c08e889cf05b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: buisson___buisson_branche_texture_baseColor
+    second: {fileID: 2800000, guid: b209d8a338cc3be4e9fb7e079c2208a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carrelage_001_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 8f00729c855cfd743955fd821f355738, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: citrus_tree___citrus_treecitrus_feuilles_baseColor
+    second: {fileID: 2800000, guid: ee6c2961a663d3541be6f90f5080cc61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: enduit_004_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: cdb774f8e733a3540ae6417d40a5b430, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: faience_034_Wall_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: bb27611087697b84c9e6e9c417d88b2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gazon_004_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 2d0ac4fd3d0b95946bea65373cc9aff3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gazon_008_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 38c58c7926180684ab1122ee108e1ca0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lit_de_jardin_balinais___lit_de_jardin_balinais_resine_baseColor
+    second: {fileID: 2800000, guid: 09ba7b4d4d5550749b1e63400bdb03a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lit_de_jardin_balinais___lit_de_jardin_balinais_resine_striee_baseColor
+    second: {fileID: 2800000, guid: cba22d5df18abc44995f363b5f5c796d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lit_de_jardin_balinais___lit_de_jardin_balinais_tissu_baseColor
+    second: {fileID: 2800000, guid: 966a9ac11ed83554084e52bc346939b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: luminaire_off_002___phong21sg3_baseColor
+    second: {fileID: 2800000, guid: b5cb49cfc31389a46ba07e9f80eac7b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meuble_lavabo_006____meuble_lavabo_00511___default_baseColor
+    second: {fileID: 2800000, guid: 9dce718aa7bed0f4dbedceb1919e4288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meuble_lavabo_006____meuble_lavabo_005bois_baseColor
+    second: {fileID: 2800000, guid: 81e969729c33efd49ad7c1b9d0a07f2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: meuble_lavabo_006____meuble_lavabo_005metal_baseColor
+    second: {fileID: 2800000, guid: fab1d09b175461b40a9cb403df94caa1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur_vegetal_off___phong150_baseColor
+    second: {fileID: 2800000, guid: f6f51a4ac3080b04ea73f0b058bdb382, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur_vegetal_off___phong151_baseColor
+    second: {fileID: 2800000, guid: 2b90399ce2b5e6d47a6f3aad14c76756, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mur_vegetal_off___phong31_baseColor
+    second: {fileID: 2800000, guid: e21d4c39036ad0344afcdb725437df8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: olivier___olivierolivier_banche_baseColor
+    second: {fileID: 2800000, guid: 0818e26c944efdb4f94c20a3ab07b7ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pack_003_salon_plante___material__144_baseColor
+    second: {fileID: 2800000, guid: 504accde5a2290347b86a84d13c1103b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pack_003_salon_television___material__81_baseColor
+    second: {fileID: 2800000, guid: 0f305aea4a25ca244be7c36344a0c0d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: panier_basket___panneau_basket_panier1_baseColor
+    second: {fileID: 2800000, guid: 7235dcaaad52f3c4a8062276b13def65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_018_Wall_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: bbff2cb715ef5b647a87d416ae9df04f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_025_Wall_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 2ab5ad04fe7188a4e87477d4ccd4c377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_063_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 8243c2db88e750342af9e9dc1295df5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_065_baseColor
+    second: {fileID: 2800000, guid: 9a0f6cad30165444f8e0b3b41cce32b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papier_peint_077_Wall_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: ae5b94fc888d8194ab8ebe28e3413e62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parasol_carre___parasol_carr__mat_baseColor
+    second: {fileID: 2800000, guid: 7b12a5edca2d1a948ba1131e1ba94af9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parquet_002_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 100cfbe545ae9db43b95822a014379cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parquet_004_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 27af866ba7fa03747bada3dc4f7b9f52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: parquet_022_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 69a18ef65681a4e418c1dc1fa6593bf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paves_ext_002_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: 409af726547d2a14fb6ecc2a8426cdc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: piscine_001___piscine_001eau3sg_baseColor
+    second: {fileID: 2800000, guid: 635a6a9554a406e4d8eef906849b4249, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plante_vase_off_002___phong38_baseColor
+    second: {fileID: 2800000, guid: 8368bbab62848c8449884bf6ba1a9439, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: porte_placard_003___porte_placard_003phong3sg_baseColor
+    second: {fileID: 2800000, guid: 3f021275173436c458f0fd23b283e774, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scan_chaise_003_rougeb___bois_005_baseColor
+    second: {fileID: 2800000, guid: e6a1d367978a41e4a99c7931e8595ade, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_bois_noir_baseColor
+    second: {fileID: 2800000, guid: 1f6586f0cade31747b3fcc7fad27dbd1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_cuir_indu_bleuf_006_baseColor
+    second: {fileID: 2800000, guid: 2ee20a7188bedef4f948c100dfd696a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_cuir_indu_grisc_003_baseColor
+    second: {fileID: 2800000, guid: 02454ff33a23c04488a84a7e39357051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_cuir_indu_taupe_010_baseColor
+    second: {fileID: 2800000, guid: bf182b51dc13e6949b365e3d8738847f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_cuir_indu_turquoise_009_baseColor
+    second: {fileID: 2800000, guid: 2185c159bbce82547855d60cb017ddb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tex_tissus_scan_bleun_007_baseColor
+    second: {fileID: 2800000, guid: 816f196b071b8ae4388fe0afb80046a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tissus_089_baseColor
+    second: {fileID: 2800000, guid: 50aa3e3f4b7121243a310251a226a792, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: treillage_003___clematite_blue_ice_002_feuilles_baseColor
+    second: {fileID: 2800000, guid: b18957a30f5cb04478ea9d71941d3a89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: treillage_003___clematite_blue_ice_002_petales_baseColor
+    second: {fileID: 2800000, guid: b464e2db2427c0e4ea6ab81e06327668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vinyle_002_baseColor
+    second: {fileID: 2800000, guid: 8c1636220db18bc49b1431a7ae146548, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vinyle_004_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: d18d982a137ee1b408e97cd336268aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vinyle_005_Room_Entity_Material_baseColor
+    second: {fileID: 2800000, guid: d13957e859b7ed44d865ab0b29865df1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vinyle_006_baseColor
+    second: {fileID: 2800000, guid: 16d8b84e92f7b8b4d97f7feed2de78b3, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
